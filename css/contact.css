@@ -134,6 +134,7 @@ iframe {
     justify-content: center;
     gap: 30px;
     transition: left 0.4s ease;
+    z-index:1;
   }
   .btn{
     border: 2px solid black;
